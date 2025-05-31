@@ -1,2 +1,2 @@
 # sainsmart_charlcd_raspberrypi
-an information script for sainsmart 1602 character lcd shield made for arduino but connected to raspberry pi
+an information script for sainsmart 1602 character lcd shield made for arduino but connected to raspberry pi which I didn't find documented anywhere.
